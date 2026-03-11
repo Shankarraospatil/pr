@@ -1,0 +1,61 @@
+.home-container{
+  min-height:100vh;
+  background:#0f172a;
+  color:white;
+}
+
+.home-navbar{
+  display:flex;
+  justify-content:space-between;
+  padding:20px 40px;
+  align-items:center;
+}
+
+.logo{
+  font-size:24px;
+  font-weight:bold;
+}
+
+.nav-buttons button{
+  margin-left:10px;
+  padding:8px 16px;
+  border:none;
+  border-radius:6px;
+  cursor:pointer;
+}
+
+.login-btn{
+  background:transparent;
+  color:white;
+  border:1px solid white;
+}
+
+.signup-btn{
+  background:#22c55e;
+  color:white;
+}
+
+.hero-section{
+  text-align:center;
+  margin-top:120px;
+}
+
+.hero-section h1{
+  font-size:42px;
+}
+
+.hero-section p{
+  margin-top:20px;
+  font-size:18px;
+  color:#cbd5f5;
+}
+
+.start-btn{
+  margin-top:30px;
+  padding:12px 28px;
+  background:#22c55e;
+  border:none;
+  border-radius:8px;
+  font-size:16px;
+  cursor:pointer;
+}
